@@ -1,7 +1,7 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-Name: JEGATHISH S
+Name: P.Sarveshvaran
 
-Reg.No: 212221230041
+Reg.No: 212221230090
 ### Aim :
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
